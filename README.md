@@ -4,6 +4,12 @@ Fact Finance Oracle is a cutting-edge platform that bridges the gap between on-c
 
 ---
 
+Access EVM Interfaces [here](https://github.com/FactFinance/FactOracleInterfaces/)
+
+Solada Consumer Example [here](https://github.com/FactFinance/solana-fact-oracle/tree/main/programs/consumer) 
+
+---
+
 ## **Our Objectives**
 
 - **Transparency:** Ensure on-chain applications have access to verified and transparent real-world data.
